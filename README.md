@@ -8,11 +8,17 @@ This repo is the public, reusable core of a larger production workflow. It is de
 
 ## Current scope
 
-- Assignment-aware tutoring workflows\n- Active-learning exercise loops\n- Instructor operations dashboard patterns\n- Student-support automation primitives
+- Assignment-aware tutoring workflows
+- Active-learning exercise loops
+- Instructor operations dashboard patterns
+- Student-support automation primitives
 
 ## Near-term roadmap
 
-1. Publish course-object model + core workflow engine\n2. Add example tutoring pipelines with guardrails\n3. Add analytics hooks for student progress\n4. Release reference deployment blueprint
+1. Publish course-object model + core workflow engine
+2. Add example tutoring pipelines with guardrails
+3. Add analytics hooks for student progress
+4. Release reference deployment blueprint
 
 ## Related work
 
